@@ -1,0 +1,210 @@
+:root {
+    /* font-size */
+    --fs-xsm: 12px;
+    --fs-sm: 14px;
+    --fs-xmd: 16px;
+    --fs-md: 20px;
+    --fs-lg: 24px;
+    --fs-xlg: 28px;
+    --fs-xl: 36px;
+    --fs-xxl: 48px;
+    --fs-xxxl: 60px;
+    --fs-xxxxl: 64px;
+    /* font-color */
+    --fc-golden: #edd7ad;
+    --fc-light-golden: #e8cb92;
+    --fc-primary-golden: #eedab4;
+    --fc-black: #060400;
+    --fc-primary-black: #1a1a1a;
+    --fc-black100: #090909;
+    --fc-gray: #b0aeac;
+    --fc-dark-gray: #5f5f5f;
+    --fc-light-gray: #b1afac;
+    --fc-gray100: #b5b2ad;
+    --fc-white: #ffffff;
+    --fc-primary-orange: #FFECEC;
+    --fc-off-white: #ecd6aa;
+    --fc-khakhi: #d7c8ae;
+    --fc-golden100: #f4ead8;
+    --fc-golden200: #e0b764;
+    --fc-shadow: #b6b6b640;
+    --fc-primary-white: #fcf9f6;
+    --fc-shadow100: #eeddbf;
+    --fc-shadow200: #c78a11;
+    --fc-shadow300: #D8D8D840;
+    --fc-shadow-400: #312510;
+    --fc-black200: #CA99440A;
+    --fc--brown: #48413c;
+    --fc--brown100: #252320;
+    --fc--brown200: #c2c2c2c2;
+    --fc--brown300: #585858;
+    --fc-primary-gray: #b4b2b0;
+    --fc-primary-gray1: #5e5e5e;
+    --fc-black300: #231f21;
+    --fc-primary-gray2: #b3b1ad;
+    --fc--brown400: #31302b;
+    --fc-black400: #0a0803;
+    --fc-black500: #4c4b4a;
+    --fc-black600: #555555;
+    --fc--brown500: #544d40;
+    --fc--brown600: #4c3812;
+    --fc--brown700: #4d4d4d;
+    --fc--black700: #000000;
+
+}
+
+@media(max-width:991.98px) {
+    .heading-2 {
+        --fs-xxl: 40px;
+    }
+
+    .doller2 {
+        --fs-xl: 28px;
+    }
+
+    .firstprize {
+        --fs-xlg: 24px;
+    }
+
+    .bona {
+        --fs-xxxl: 55px;
+    }
+
+    .preliminary {
+        --fs-xmd: 14px;
+    }
+
+    .para-7 {
+        --fs-xmd: 14px;
+    }
+
+    .apply {
+        --fs-xxl: 26px;
+    }
+
+    .lorem1 {
+        --fs-xmd: 14px;
+    }
+
+    .application {
+        --fs-lg: 20px;
+    }
+}
+
+@media(max-width:575.98px) {
+    .doller {
+        --fs-md: 14px;
+    }
+
+    .prizes {
+        --fs-md: 14px;
+    }
+
+    .heading-1 {
+        --fs-xxxxl: 36px;
+    }
+
+    .dive {
+        --fs-xxxxl: 36px;
+    }
+
+    .heading-2 {
+        --fs-xxl: 27px;
+    }
+
+    .text-2 {
+        --fs-md: 14px;
+    }
+
+    .para-2 {
+        --fs-xmd: 12px;
+    }
+
+    .heading-3 {
+        --fs-xxl: 33px;
+    }
+
+    .para-3 {
+        --fs-xmd: 14px;
+    }
+
+    .projects {
+        --fs-xxl: 17px;
+    }
+
+    .para-5 {
+        --fs-md: 16px;
+    }
+
+    .story {
+        --fs-lg: 16px;
+    }
+
+    .step {
+        --fs-lg: 16px;
+    }
+
+    .preliminary {
+        --fs-xmd: 12px;
+    }
+
+    .para-7 {
+        --fs-xmd: 12px;
+    }
+
+    .submission {
+        --fs-xxl: 28px;
+    }
+
+    .julion {
+        --fs-xxl: 37px;
+    }
+
+    .doller2 {
+        --fs-xl: 26px;
+    }
+
+    .firstprize {
+        --fs-xlg: 20px;
+    }
+
+    .bona {
+        --fs-xxxl: 35px;
+    }
+
+    .apply {
+        --fs-xxl: 26px;
+    }
+
+    .short-text1 {
+        --fs-lg: 18px;
+    }
+
+    .tab-heading {
+        --fs-md: 16px;
+    }
+
+    .para-10 {
+        --fs-xmd: 13px;
+    }
+
+    .para-4 {
+        --fs-xmd: 13px;
+    }
+
+    .group {
+        --fs-xmd: 12px;
+    }
+
+    .lorem1 {
+        --fs-xmd: 12px;
+    }
+
+    .application {
+        --fs-lg: 18px;
+    }
+
+    .check-out {
+        --fs-md: 17px;
+    }
+}
